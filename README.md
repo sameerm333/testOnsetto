@@ -217,13 +217,7 @@ Responsible for:
 - Saving payment details
 - Validating success and error messages
 
----
 
----
-
-````
-
----
 
 # Best Practices Followed
 
